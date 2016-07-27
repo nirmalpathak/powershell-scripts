@@ -1,4 +1,3 @@
-# Version: 0.1
 <# Version: 0.1
    License: GPLv2 (https://www.gnu.org/licenses/gpl-2.0.txt)
    Author: Nirmal Pathak.
